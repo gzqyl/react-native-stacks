@@ -1,13 +1,23 @@
 {
   "name": "@snelusha/react-native-stacks",
   "version": "1.0.0",
-  "description": "",
+  "description": "Like Swiftui, React native looks like!",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "react native",
+    "vstack",
+    "hstack",
+    "zstack",
+    "spacer",
+    "stacks",
+    "javascript",
+    "typescript"
+  ],
   "author": "snelusha",
   "license": "ISC",
   "devDependencies": {
