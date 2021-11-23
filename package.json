@@ -1,0 +1,29 @@
+{
+  "name": "@snelusha/react-native-stacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "snelusha",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "@types/react": "^17.0.36",
+    "@types/react-native": "^0.66.5",
+    "tslint": "^6.1.3",
+    "typescript": "^4.5.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SNelusha/react-native-stacks.git"
+  },
+  "homepage": "https://github.com/SNelusha/react-native-stacks.git"
+}
