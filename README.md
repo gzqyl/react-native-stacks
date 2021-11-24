@@ -83,6 +83,8 @@ The horizontal alignment for the stack items
 - center: center align
 - trailing: right align
 
+![vstack](/assets/readme-vstack.png)
+
 `required: no`
 `type: leading | center | trailing`
 `default: "center"`
@@ -107,9 +109,11 @@ The amount of space between each item in the stack
 
 The vertical alignment for the stack items
 
-- leading: left align
+- leading: top align
 - center: center align
-- trailing: right align
+- trailing: bottom align
+
+![hstack](/assets/readme-vstack.png)
 
 `required: no`
 `type: leading | center | trailing`
