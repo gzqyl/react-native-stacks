@@ -50,7 +50,7 @@ import { ZStack } from "@snelusha/react-native-stacks";
 
 export default function App() {
   return (
-    <ZStack spacing={10}>
+    <ZStack>
       <Card />
       <Card />
       <Card />
