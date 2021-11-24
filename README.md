@@ -113,7 +113,7 @@ The vertical alignment for the stack items
 - center: center align
 - trailing: bottom align
 
-![hstack](/assets/readme-vstack.png)
+![hstack](/assets/readme-hstack.png)
 
 `required: no`
 `type: leading | center | trailing`
