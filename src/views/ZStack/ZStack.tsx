@@ -25,7 +25,7 @@ export default function ZStack({
           ...child.props,
           style: {
             ...child.props.style,
-            position: index === 1 ? "relative" : "absolute",
+            position: index === 0 ? "relative" : "absolute",
             zIndex: index,
           },
         })
