@@ -24,6 +24,7 @@ export default function ZStack({
         React.cloneElement(child, {
           ...child.props,
           style: {
+            ...child.props.style,
             position: index === 1 ? "relative" : "absolute",
             zIndex: index,
           },
