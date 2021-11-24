@@ -1,6 +1,6 @@
 {
   "name": "@snelusha/react-native-stacks",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Like Swiftui, React native looks like!",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
